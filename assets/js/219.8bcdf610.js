@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[219],{547:function(t,s,a){"use strict";a.r(s);var n=a(7),e=Object(n.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("iframe",{attrs:{src:"/java-alibaba.pdf",width:"100%",height:"1000px"}})])}),[],!1,null,null,null);s.default=e.exports}}]);
